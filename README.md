@@ -12,6 +12,4 @@ AI & Machine Learning <br><br>Open-source projects, AI/ML projects, and web deve
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
----\
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
